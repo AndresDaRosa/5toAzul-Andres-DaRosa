@@ -1,2 +1,2 @@
-# 5toAzul-Andr-s-DaRosa
+# 5toAzul-Andres-DaRosa
 Pensamiento Computacional
