@@ -12,3 +12,7 @@ Clase del 24/09 creación del github
 
 <img width="1956" height="2704" alt="1000029757" src="https://github.com/user-attachments/assets/e90f5fa1-58fc-446a-a26f-a62256e1f81a" />
 <img width="1864" height="2632" alt="1000029756" src="https://github.com/user-attachments/assets/48555d98-f666-4461-b26e-0f9fd1ff39f8" />
+
+Tinkercad account:
+user: andres.darosa
+password: Andresdarosa1234*
