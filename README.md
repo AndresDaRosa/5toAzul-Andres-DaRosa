@@ -24,6 +24,19 @@ user: andres.darosa
 password: Andresdarosa1234*
 
 
-Foto del código del primer circuito de tinkercad:
+Foto del primer circuito de tinkercad:
 
 <img width="1382" height="756" alt="image" src="https://github.com/user-attachments/assets/669246a5-534f-4f9c-9f65-000a6402ab55" />
+
+Foto del código del primer circuito de tinkercad:
+
+<img width="928" height="751" alt="image" src="https://github.com/user-attachments/assets/2157893f-b68d-402c-9ad3-9d9e0a7a7e09" />
+<img width="937" height="751" alt="image" src="https://github.com/user-attachments/assets/0025ab38-af3e-494b-b1fa-8220e366f510" />
+
+resolución del problema escrito de distancia ccs-maracaiboÑ
+
+<img width="1080" height="830" alt="image" src="https://github.com/user-attachments/assets/22124f36-6731-4fd2-b950-06cddf2425bc" />
+
+
+
+
