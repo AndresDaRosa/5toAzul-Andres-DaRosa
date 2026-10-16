@@ -54,7 +54,6 @@ Permite que el peatón solicite el paso mediante un botón. El sistema detiene a
 circuito:
 <img width="1027" height="757" alt="image" src="https://github.com/user-attachments/assets/9846bfa3-1be8-4cd3-a376-7ae7623e3695" />
 
-código:
 <img width="760" height="743" alt="image" src="https://github.com/user-attachments/assets/3b4fa71e-8c4d-4371-aa82-aafe4f955d17" />
 <img width="760" height="792" alt="image" src="https://github.com/user-attachments/assets/716d65c8-ebd0-4aab-bb39-dc2fde816fb5" />
 <img width="758" height="360" alt="image" src="https://github.com/user-attachments/assets/4ca6197c-6707-4adc-8218-8abe657bd71d" />
